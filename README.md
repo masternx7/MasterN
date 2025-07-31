@@ -25,6 +25,11 @@ Implemented responsive layouts using HTML and TailwindCSS.
 Built the frontend interface for an educational institution offering tutoring courses.  
 Converted Figma designs into responsive web pages using TailwindCSS and JavaScript.
 
+- **Nexaso Medical Website**  
+[https://nexasomedical.com/](https://nexasomedical.com/)  
+Developed the frontend for a healthcare services website.  
+Implemented the design using HTML, SCSS, TailwindCSS, and JavaScript to ensure responsiveness and accessibility.
+
 - **Theme Templates for Client Projects**  
 Created reusable frontend templates for internal use by clients.  
 Each template was developed based on design specifications and built using HTML, TailwindCSS, and JavaScript.
