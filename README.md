@@ -42,8 +42,9 @@ Each template was developed based on design specifications and built using HTML,
   [Theme 10](https://tmp10.theme.nd.co.th/)  
   [Theme 11](https://tmp11.theme.nd.co.th/)
 
-*These projects were completed as part of my work in a client-based web development environment.*
-
+**These projects were completed as part of my work in a client-based web development environment.**
 
 
 Thank you for visiting my profile.
+
+*Last updated: 31/07/2025 — All projects involve slicing HTML, CSS, and TailwindCSS code by me.*
