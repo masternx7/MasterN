@@ -2,7 +2,9 @@
 
 I am a frontend developer specializing in converting UI designs into responsive, accessible, and maintainable web interfaces.
 
-My work primarily involves translating Figma designs into clean HTML structures using TailwindCSS and JavaScript.
+My work primarily involves creating wireframes to guide the design team,  
+and slicing UI designs into clean HTML, CSS, and TailwindCSS code,  
+along with JavaScript for interactivity.
 
 
 
