@@ -1,7 +1,5 @@
 # 👋 Hello, I'm MasterN
 
----
-
 ## 🛠️ Frontend Skills
 
 - HTML, CSS / SCSS, TailwindCSS  
